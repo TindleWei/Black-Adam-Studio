@@ -3,7 +3,7 @@ Games Connection from Black Adam Studio
 
 # Bouncy Balls 3D - Speed Up
 
-![avatar](Images/Bouncy Ball 3D/logo.png)
+<img src="Images/Bouncy Ball 3D/logo.png" align="middle" width="300"/>  
 
 <h4>Bouncy Balls 3D is An iOS game.</h4>
 <h4>
